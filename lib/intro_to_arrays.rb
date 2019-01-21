@@ -9,4 +9,3 @@ end
 def first_element(spot)
   spot = taylor_swift.first
 end
-
