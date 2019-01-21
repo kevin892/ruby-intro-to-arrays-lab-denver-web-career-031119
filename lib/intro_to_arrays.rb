@@ -6,4 +6,4 @@ def array_with_two_elements
   [1,2]
 end
 
-taylor_swift[0]
+first_element = taylor_swift[0]
