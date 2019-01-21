@@ -6,4 +6,7 @@ def array_with_two_elements
   [1,2]
 end
 
-first_element = taylor_swift[0]
+def first_element(spot)
+  spot = taylor_swift.first
+end
+
