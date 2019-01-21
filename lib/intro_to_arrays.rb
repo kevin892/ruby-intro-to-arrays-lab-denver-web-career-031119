@@ -7,13 +7,13 @@ def array_with_two_elements
 end
 
 def first_element
-  taylor_swift.first
+  array.first
 end
 
 def third_element
-  taylor_swift[2]
+  array[2]
 end
 
 def last_element
-  taylor_swift.last
+  array.last
 end
